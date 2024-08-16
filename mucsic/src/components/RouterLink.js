@@ -24,7 +24,7 @@ const RouterLink = () => {
                        <Link to="/documentation">Documentation.</Link>
                     </li>
                     <li>
-                       <Link to="/community">Community</Link>
+                       <Link to="/community">Community.</Link>
                     </li>
                     <li>
                        <Link to="/courses">Courses</Link>
